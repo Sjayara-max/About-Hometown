@@ -1,0 +1,32 @@
+.main_wrapper
+{
+    background-color: blanchedalmond;   
+    width: 734px; 
+}
+.content_wrapper
+{
+    width: 734px;
+}
+.heading_wrapper
+{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;  
+}
+.description_wrapper
+{
+    text-decoration: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: oblique;
+}  
+.paragraph_wrapper
+{
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.read_more_wrapper
+{
+    color: red;
+}
+.comment_wrapper
+{text-align: right;}
